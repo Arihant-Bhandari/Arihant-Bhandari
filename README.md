@@ -52,10 +52,6 @@ I am a Sophomore at VIT-Bhopal, currently affliated with GDSC and passionate abo
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arihant-Bhandari&count_private=true&show_icons=true&theme=radical)](https://github.com/Arihant-Bhandari)
 
-## GitHub Activity
-
-[![GitHub Commits](https://github-readme-activity.vercel.app/api?username=Arihant-Bhandari&theme=radical)](https://github.com/Arihant-Bhandari)
-
 ## Connect with Me
 
 - 📫 Email: arihant.bhandari.2004@gmail.com

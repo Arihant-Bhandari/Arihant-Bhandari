@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am a Sophomore at VIT-Bhopal, currently affliated with GDSC and passionate about Machine Learning and Neural Networks.
+I am a Pre-final at VIT-Bhopal, currently affliated with GDSC and DataScience Club, and passionate about Machine Learning and Neural Networks.
 
 ## Skills
 
@@ -36,13 +36,23 @@ I am a Sophomore at VIT-Bhopal, currently affliated with GDSC and passionate abo
 
 - **[Titanic Survived](https://github.com/Arihant-Bhandari/Machine_Learning/tree/main/Titanic)**: [Classical disaster Titanic's Survived predictions.]
 
+- **[Facial Keypoints Detection](https://www.kaggle.com/code/arihantbhandari04/facial-keypoints-deep-learning-notebook)**: [created a complete project on Facial Keypoints Detection using CNN and pre-trained models to predict facial keypoints.]
+
 ## Open Source Projects
 
 - **[Colour Detection using DL](https://github.com/abhisheks008/DL-Simplified/tree/main/Colour%20Detection%20using%20DL)**: [used CNN with Attention to achieve 94% accuracy as part of Model Enhancement.]
 
 - **[Chocolate Classification using DL](https://github.com/abhisheks008/DL-Simplified/tree/main/Chocolate%20Classification%20using%20DL)**: [used CNN with Attention to achieve 96.96% accuracy as part of Model Enhancement.]
 
-- **[Metabolic Syndrome Prediction](https://github.com/SrijanShovit/HealthLearning/tree/main/Metabolic%20Syndrome%20Prediction)**: [Working on the entire ML pipeline end-to-end.]
+- **[Metabolic Syndrome Prediction](https://github.com/SrijanShovit/HealthLearning/tree/main/Metabolic%20Syndrome%20Prediction)**: [Worked on the entire ML pipeline end-to-end for Metabolic Syndrome Prediction.]
+
+- **[Speech Sentiment Analysis using DL](https://github.com/abhisheks008/DL-Simplified/tree/main/Speech%20Sentiment%20Analysis%20using%20DL)**: [created a complete project on Speech Sentiment Analysis using CNN and pre-trained models to classify Melspectrogram images.]
+
+- **[Eye Disease Classification using DL](https://github.com/abhisheks008/DL-Simplified/tree/main/Eye%20Disease%20Classification%20using%20DL)**: [created a complete project on Eye Disease Classification using CNN and pre-trained models to classify eye disease images.]
+
+- **[Fracture Detection using DL](https://github.com/abhisheks008/DL-Simplified/tree/main/Fracture%20Detection%20using%20DL)**: [created a complete project on Fracture Detection using CNN and pre-trained models to classify images of bones.]
+
+- **[Tomato-Leaf Classification using DL](https://github.com/abhisheks008/DL-Simplified/tree/main/Tomato-Leaf%20Classification%20using%20DL)**: [created a complete project on Tomato-Leaf Classification using CNN and pre-trained models to classify images of diseased tomato leaves.]
 
 ## GitHub Stats
 

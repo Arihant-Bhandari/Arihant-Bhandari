@@ -1,69 +1,165 @@
-# Hello Glorius Audience! 
+# Hey there! 👋 I'm Arihant Bhandari
 
-### It is I, Arihant Bhandari.
+<div align="center">
 
-## About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Machine+Learning+Engineer;Deep+Learning+Enthusiast;Open+Source+Contributor;Computer+Vision+Developer)](https://git.io/typing-svg)
 
-I am a Pre-final at VIT-Bhopal, currently affliated with GDSC and DataScience Club, and passionate about Machine Learning and Neural Networks.
+**🎓 B.Tech CSE @ VIT Bhopal | 🤖 SSoC 2025 Contributor | 🏆 Top 0.12% GSSoC 2024 Contributor**
 
-## Skills
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arihant-bhandari/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/arihantbhandari04)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arihant-Bhandari)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arihant.bhandari.2004@gmail.com)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+> Passionate ML Engineer building intelligent systems that make a difference
+
+I'm a **pre-final year Computer Science student** at VIT Bhopal with a **9.15 CGPA**, deeply fascinated by the intersection of **Machine Learning** and **Real-world Applications**.
+
+- 🔭 Currently working on **Advanced Deep Learning** projects
+- 🌱 Learning **MLOps** and **Production ML Systems**
+- 👯 Looking to collaborate on **AI/ML Research** projects
+- 📝 I write about ML on [Medium](https://medium.com/@arihant-bhandari) 
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
 
 ### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-- 💻 Java
-- 🐍 Python
-- 🚀 C++
-- 💻 C
+### AI/ML Frameworks
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### Tools and Technologies
+### Tools & Technologies
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-- 🔥 TensorFlow
-- ⚛️ Keras
-- 🐘 PyTorch
-- 🔑 Git
+</div>
 
-## Projects
+---
 
-- **[EV CAFV Eligibility](https://github.com/Arihant-Bhandari/Machine_Learning/tree/main/EV)**: [Classifying Ev's CAFV Eligibility.]
+## 🏆 Featured Projects
 
-- **[NVIDIA Stocks](https://github.com/Arihant-Bhandari/Machine_Learning/tree/main/NVIDIA)**: [Using RNN on Stock Close and Open for Regression.]
+<div align="center">
 
-- **[Crop Yield](https://github.com/Arihant-Bhandari/Machine_Learning/tree/main/Crop_Yield)**: [Predicting crop yield based on mineral content.]
+### 🔥 [FeedFlash: AI News Summarizer](https://huggingface.co/spaces/Arihant-Bhandari/FeedFlash)
+**Deep Learning • Hugging Face • PyTorch • Gradio**
 
-- **[House Price Prediction](https://github.com/Arihant-Bhandari/Machine_Learning/tree/main/House_Price)**: [Predicting House Prices.]
+Built an end-to-end news summarization platform using fine-tuned T5 model on 40k articles. Features automated content pipeline with GitHub Actions, processing 120+ articles daily.
 
-- **[Microsoft Stocks](https://github.com/Arihant-Bhandari/Machine_Learning/tree/main/Microsoft)**: [Using RNN on Stock Close and Open for Regression.]
+**Key Achievements:** Reduced training loss from 2.36 → 1.95 | Mobile-friendly interface | Real-time deployment
 
-- **[Titanic Survived](https://github.com/Arihant-Bhandari/Machine_Learning/tree/main/Titanic)**: [Classical disaster Titanic's Survived predictions.]
+---
 
-- **[Facial Keypoints Detection](https://www.kaggle.com/code/arihantbhandari04/facial-keypoints-deep-learning-notebook)**: [created a complete project on Facial Keypoints Detection using CNN and pre-trained models to predict facial keypoints.]
+### 🩺 [Metabolic Syndrome Predictor](https://github.com/SrijanShovit/HealthLearning/tree/main/Metabolic%20Syndrome%20Prediction)
+**Machine Learning • Healthcare • XGBoost**
 
-## Open Source Projects
+Developed ML pipeline for early metabolic syndrome detection using clinical data from 2,400 patients. Benchmarked 20+ algorithms with rigorous validation.
 
-- **[Colour Detection using DL](https://github.com/abhisheks008/DL-Simplified/tree/main/Colour%20Detection%20using%20DL)**: [used CNN with Attention to achieve 94% accuracy as part of Model Enhancement.]
+**Key Achievements:** 89.3% accuracy | 0.88 ROC AUC | Production-ready ensemble model
 
-- **[Chocolate Classification using DL](https://github.com/abhisheks008/DL-Simplified/tree/main/Chocolate%20Classification%20using%20DL)**: [used CNN with Attention to achieve 96.96% accuracy as part of Model Enhancement.]
+</div>
 
-- **[Metabolic Syndrome Prediction](https://github.com/SrijanShovit/HealthLearning/tree/main/Metabolic%20Syndrome%20Prediction)**: [Worked on the entire ML pipeline end-to-end for Metabolic Syndrome Prediction.]
+---
 
-- **[Speech Sentiment Analysis using DL](https://github.com/abhisheks008/DL-Simplified/tree/main/Speech%20Sentiment%20Analysis%20using%20DL)**: [created a complete project on Speech Sentiment Analysis using CNN and pre-trained models to classify Melspectrogram images.]
+## 🌟 Open Source Contributions
 
-- **[Eye Disease Classification using DL](https://github.com/abhisheks008/DL-Simplified/tree/main/Eye%20Disease%20Classification%20using%20DL)**: [created a complete project on Eye Disease Classification using CNN and pre-trained models to classify eye disease images.]
+<div align="center">
 
-- **[Fracture Detection using DL](https://github.com/abhisheks008/DL-Simplified/tree/main/Fracture%20Detection%20using%20DL)**: [created a complete project on Fracture Detection using CNN and pre-trained models to classify images of bones.]
+**🏅 GirlScript Summer of Code 2024 - Top 0.12% (Rank 82/20,000)**
 
-- **[Tomato-Leaf Classification using DL](https://github.com/abhisheks008/DL-Simplified/tree/main/Tomato-Leaf%20Classification%20using%20DL)**: [created a complete project on Tomato-Leaf Classification using CNN and pre-trained models to classify images of diseased tomato leaves.]
+[![PRs](https://img.shields.io/badge/PRs-25-brightgreen?style=for-the-badge)]()
+[![Projects](https://img.shields.io/badge/Projects-20+-blue?style=for-the-badge)]()
+[![Badges](https://img.shields.io/badge/Badges-7-gold?style=for-the-badge)]()
 
-## GitHub Stats
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arihant-Bhandari&layout=compact)](https://github.com/Arihant-Bhandari)
+**Major Contributions:**
+- 🎨 **DL-Simplified**: Enhanced 7+ deep learning models with attention mechanisms
+- 🏥 **HealthLearning**: Built complete ML pipeline for medical prediction
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arihant-Bhandari&theme=radical)](https://github.com/Arihant-Bhandari)
+---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arihant-Bhandari&count_private=true&show_icons=true&theme=radical)](https://github.com/Arihant-Bhandari)
+## 💼 Leadership & Community
 
-## Connect with Me
+<div align="center">
 
-- 📫 Email: arihant.bhandari.2004@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/arihant-bhandari/)
-- 🐦 [Kaggle](https://www.kaggle.com/arihantbhandari04)
+### 👨‍💻 ML Team Lead @ Google Developer Student Clubs
+*Oct 2024 - Jul 2025*
+
+</div>
+
+- **🎯 Impact:** Mentored 2000+ students through ML/DL workshops
+- **📝 Content:** Authored "DeepLearning MegaThread" blog series (400+ interactions)
+- **🏗️ Implementation:** Built MobileViT XXS from scratch, achieved 35% accuracy improvement
+- **🎪 Events:** Co-hosted major tech events
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Arihant-Bhandari&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arihant-Bhandari&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arihant-Bhandari&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="165"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arihant-Bhandari&theme=github-compact&hide_border=true" alt="Activity Graph" height="165"/>
+
+</div>
+
+---
+
+## 🏅 Certifications & Achievements
+
+<div align="center">
+
+![IBM](https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white) **AI Engineer Professional Certificate**
+
+🎯 **200+ LeetCode Problems** | 📚 **200+ Independent DSA Problems** | 🌟 **CGPA: 9.15/10**
+
+</div>
+
+---
+
+## 📈 Current Focus
+
+- 🔬 **Research:** Working on advanced transformer architectures
+- 🏭 **MLOps:** Building scalable ML deployment pipelines  
+- 🌐 **Open Source:** Contributing to major ML frameworks
+- 📖 **Learning:** Exploring Reinforcement Learning and LLMs
+
+---
+
+<div align="center">
+
+## 💬 Let's Connect and Build Something Amazing!
+
+*"The best way to predict the future is to invent it"* - Alan Kay
+
+**Always open to collaborating on innovative ML projects and research opportunities!**
+
+---
+
+⭐ **If you find my work interesting, consider giving it a star!** ⭐
+
+*Last updated: September 2025*
+
+</div>

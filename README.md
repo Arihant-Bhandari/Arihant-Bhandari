@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Machine+Learning+Engineer;Deep+Learning+Enthusiast;Open+Source+Contributor;Computer+Vision+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Aspiring+Software+Developer;Deep+Learning+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)
 
 **🎓 B.Tech CSE @ VIT Bhopal | 🤖 SSoC 2025 Contributor | 🏆 Top 0.12% GSSoC 2024 Contributor**
 

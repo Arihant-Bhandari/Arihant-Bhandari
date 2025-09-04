@@ -19,7 +19,7 @@
 
 > Passionate ML Engineer building intelligent systems that make a difference
 
-I'm a **pre-final year Computer Science student** at VIT Bhopal with a **9.15 CGPA**, deeply fascinated by the intersection of **Machine Learning** and **Real-world Applications**.
+I'm a **Final year Computer Science student** at VIT Bhopal with a **9.15 CGPA**, deeply fascinated by the intersection of **Machine Learning** and **Real-world Applications**.
 
 - 🔭 Currently working on **Advanced Deep Learning** projects
 - 🌱 Learning **MLOps** and **Production ML Systems**
